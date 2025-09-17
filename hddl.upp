@@ -1,0 +1,11 @@
+description "HOMEd device list\377";
+
+uses
+	Core;
+
+file
+	hddl.cpp;
+
+mainconfig
+	"" = "";
+
