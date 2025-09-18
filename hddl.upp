@@ -1,7 +1,8 @@
 description "HOMEd device list\377";
 
 uses
-	Core;
+	Core,
+	Core/SSL;
 
 file
 	hddl.cpp;
